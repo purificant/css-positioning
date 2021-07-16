@@ -1,18 +1,28 @@
 # css-positioning
 Tutorial on common css positioning methods built with react for simplicity.
-This repo is intended to be used a live demo and proof of concept.
+This repo is intended to be used as live demo and proof of concept.
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-
+&nbsp;
 
 
 # npx create-react-app generated readme file:
